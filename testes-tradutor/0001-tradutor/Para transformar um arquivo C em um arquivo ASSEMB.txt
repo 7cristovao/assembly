@@ -1,0 +1,3 @@
+Para transformar um arquivo C em um arquivo ASSEMBLY
+
+$ gcc -S filename.c
